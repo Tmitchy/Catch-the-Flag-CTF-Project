@@ -72,7 +72,7 @@ nmap -sC -sV -p- 192.168.56.200
 
 ### Screenshot
 
-![Nmap Enumeration](images/nmap_scan.png)
+![Nmap Enumeration](images/Screenshot 2026-04-21 132551.png)
 
 ---
 
