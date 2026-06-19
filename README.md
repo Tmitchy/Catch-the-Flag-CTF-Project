@@ -72,7 +72,7 @@ nmap -sC -sV -p- 192.168.56.200
 
 ### Screenshot
 
-![Nmap Enumeration](https://github.com/Tmitchy/Catch-the-Flag-CTF-Project/blob/main/images/Screenshot%202026-04-21%20132551.png)
+![Nmap Enumeration](https://github.com/Tmitchy/Catch-the-Flag-CTF-Project/blob/main/images/Reconnaissance%20%26%20Enumeration.png)
 
 ---
 
@@ -90,7 +90,7 @@ The web server hosted a WordPress application that provided valuable information
 
 ### Screenshot
 
-![Directory Enumeration](images/dirbuster_scan.png)
+![Directory Enumeration](https://github.com/Tmitchy/Catch-the-Flag-CTF-Project/blob/main/images/Directory%20Enumeration.png)
 
 ---
 
@@ -107,7 +107,7 @@ Reconnaissance findings were leveraged to identify valid credentials and gain ac
 
 ### Screenshot
 
-![WordPress Access](images/wordpress_login.png)
+![WordPress Access](https://github.com/Tmitchy/Catch-the-Flag-CTF-Project/blob/main/images/WordPress%20Access.png)
 
 ---
 
@@ -126,7 +126,7 @@ A Docker misconfiguration allowed escalation from a standard user account to roo
 
 ### Screenshot
 
-![Docker Privilege Escalation](images/docker_privesc.png)
+![Docker Privilege Escalation](https://github.com/Tmitchy/Catch-the-Flag-CTF-Project/blob/main/images/Docker%20Privilege%20Escalation.png)
 
 ---
 
@@ -143,7 +143,7 @@ A custom web application was tested for SQL Injection vulnerabilities.
 
 ### Screenshot
 
-![SQL Injection](images/sql_injection.png)
+![SQL Injection](https://github.com/Tmitchy/Catch-the-Flag-CTF-Project/blob/main/images/SQL%20Injection.png)
 
 ---
 
@@ -161,7 +161,7 @@ Post-exploitation techniques were demonstrated to assess the overall impact of a
 
 ### Screenshot
 
-![SSH Access](images/ssh_access.png)
+![SSH Access](https://github.com/Tmitchy/Catch-the-Flag-CTF-Project/blob/main/images/SSH%20Access.png)
 
 ---
 
