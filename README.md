@@ -45,6 +45,17 @@ The objective was to perform reconnaissance, identify vulnerabilities, exploit w
 
 ---
 
+## Project Files
+
+Inside this repository, you'll find:
+
+| File/Folder | Description |
+|-------------|-------------|
+| `images-files/` | [📂 Directory containing`image` files](https://github.com/Tmitchy/Catch-the-Flag-CTF-Project/tree/main/images)|
+| `.docx` | 🧪 [A report providing an overview of the analysis conducted on the Vulnerable virtual machine using the mentioned tools.](https://github.com/Tmitchy/Catch-the-Flag-CTF-Project/blob/main/CT5049_EthicalHackingAssessment_s4417613.docx) |
+
+<br><br>
+
 # 🔍 Methodology
 
 ## Phase 1 – Reconnaissance & Enumeration
