@@ -72,7 +72,7 @@ nmap -sC -sV -p- 192.168.56.200
 
 ### Screenshot
 
-![Nmap Enumeration](images/Screenshot 2026-04-21 132551.png)
+![Nmap Enumeration](https://github.com/Tmitchy/Catch-the-Flag-CTF-Project/blob/main/images/Screenshot%202026-04-21%20132551.png)
 
 ---
 
